@@ -4,6 +4,12 @@
 
 - 🌱 I’m currently learning **Deep Learning**
   
+  - I am a highly skilled CAE Engineer with over 6 years of experience at a respected Japanese company.
+    
+    - BUT THEN ..... My passion for data-driven decision-making led me to explore Data Science, where I earned 3 key certifications on DataCamp within a year.
+      
+      - My engineering background provides a strong foundation in numerical analysis and problem-solving, which complements my newly acquired data analysis skills.
+
 - Certifications
     * Data Scientist Professional Certification | DataCamp | September 2023
     * Data Engineer Associate Certification | DataCamp | September 2023
