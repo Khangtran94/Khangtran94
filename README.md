@@ -1,8 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Khang</h1>
+<h1 align="center">Hello, I'm Khang from Vietnam</h1>
 <h3 align="center">I am a quick learner and highly motivated, eager to leverage my skills and passion for data to make meaningful contributions in a Data Science career.</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
+  
+- Certifications
+    * Data Scientist Professional Certification | DataCamp | September 2023
+    * Data Engineer Associate Certification | DataCamp | September 2023
+    * SQL Associate Certification | DataCamp | September 2023
+    * Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential | Coursera | May 2020
 
 - 📫 How to reach me **tranhoangngockhang1994@gmail.com**
 
