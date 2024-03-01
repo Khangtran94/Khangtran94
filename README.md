@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.datacamp.com/portfolio/khangtran94](https://www.datacamp.com/portfolio/khangtran94)
-
 - 📫 How to reach me **tranhoangngockhang1994@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
