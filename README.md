@@ -12,9 +12,19 @@
 
 - Certifications
     * Data Scientist Professional Certification | DataCamp | September 2023
+         ![Untitled](https://github.com/Khangtran94/Khangtran94/assets/146164801/7f716c35-4026-4499-b36c-11a1cacba850)
+
     * Data Engineer Associate Certification | DataCamp | September 2023
+          ![Untitled](https://github.com/Khangtran94/Khangtran94/assets/146164801/13c7df18-9035-44af-ae23-d221a0417380)
+
     * SQL Associate Certification | DataCamp | September 2023
+         ![Untitled](https://github.com/Khangtran94/Khangtran94/assets/146164801/d207612d-6232-4ce4-bb40-517e9293a3a2)
+      
+    * SQL Basic Certificate | HackerRank | Nov 2023
+         ![Untitled](https://github.com/Khangtran94/Khangtran94/assets/146164801/e335aed5-823f-4c67-a791-4ddb1152e79a)
+
     * Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential | Coursera | May 2020
+         ![image](https://github.com/Khangtran94/Khangtran94/assets/146164801/25f174a9-bc4b-4639-bb07-cef524fa5483)
 
 - 📫 How to reach me **tranhoangngockhang1994@gmail.com**
 
