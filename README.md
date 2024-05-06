@@ -10,7 +10,10 @@
       
       - My engineering background provides a strong foundation in numerical analysis and problem-solving, which complements my newly acquired data analysis skills.
 
-- Certifications
+- Certifications:
+    * Foundational Micro Credential Certification | Alteryx | April 2024
+      ![image](https://github.com/Khangtran94/Khangtran94/assets/146164801/d50f9a6f-35aa-4353-b40b-916fd63bd7a1)
+
     * Data Scientist Professional Certification | DataCamp | September 2023
          ![Untitled](https://github.com/Khangtran94/Khangtran94/assets/146164801/7f716c35-4026-4499-b36c-11a1cacba850)
 
