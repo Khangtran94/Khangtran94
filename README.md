@@ -1,8 +1,6 @@
 
 <h1 align="center">Hello, I'm Khang from Vietnam</h1>
 <h3 align="center">I am a quick learner and highly motivated, eager to leverage my skills and passion for data to make meaningful contributions in a Data Science career.</h3>
-
-- 🌱 I’m currently learning **Deep Learning**
   
   - I am a highly skilled CAE Engineer with over 6 years of experience at a respected Japanese company.
     
