@@ -19,21 +19,28 @@
 - Highlighted Certifications:
     * PL-300: Power BI Data Analyst Associate | Microsoft | August 2025
   <img width="1040" height="472" alt="image" src="https://github.com/user-attachments/assets/0704f9df-7c8e-46fe-acd0-1b9a1cbc0825" />
+  
     * DP-600: Fabric Analytics Engineer Associate | Microsoft | August 2025
   <img width="1040" height="476" alt="image" src="https://github.com/user-attachments/assets/02f3259b-ac37-43b0-8eee-3b18511e5cf0" />
+  
     * DP-700: Fabric Data Engineer Associate | Microsoft | June 2025
   <img width="1036" height="470" alt="image" src="https://github.com/user-attachments/assets/53abbfdf-1537-4686-ad50-f966dd3dacbf" />
+  
     * Data Engineering Bootcamp Certificate Completion | DataExpert.io | August 2025
-  <img width="566" height="435" alt="image" src="https://github.com/user-attachments/assets/4402dae4-4b1c-4b64-b29f-845fbd727918" />
+    <img width="566" height="435" alt="image" src="https://github.com/user-attachments/assets/4402dae4-4b1c-4b64-b29f-845fbd727918" />
   
     * Data Scientist Professional Certification | DataCamp | September 2023
   ![Untitled](https://github.com/Khangtran94/Khangtran94/assets/146164801/7f716c35-4026-4499-b36c-11a1cacba850)
+
     * Data Engineer Associate Certification | DataCamp | September 2023
   ![Untitled](https://github.com/Khangtran94/Khangtran94/assets/146164801/13c7df18-9035-44af-ae23-d221a0417380)
+
     * SQL Associate Certification | DataCamp | September 2023
    ![Untitled](https://github.com/Khangtran94/Khangtran94/assets/146164801/d207612d-6232-4ce4-bb40-517e9293a3a2)
+
     * SQL (Advanced) | HackerRank | August 2025
   <img width="806" height="608" alt="image" src="https://github.com/user-attachments/assets/37ffcd08-4a91-4f89-a6c6-6362f600aa7e" />
+  
     * Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential | Coursera | May 2020
          ![image](https://github.com/Khangtran94/Khangtran94/assets/146164801/25f174a9-bc4b-4639-bb07-cef524fa5483)
 
@@ -51,4 +58,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Khangtran94=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-three-psi-77.vercel.app/api?username=Khangtran94&show_icons=true)
